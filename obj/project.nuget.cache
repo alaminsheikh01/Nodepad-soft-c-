@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bByK6wKyDz7u0LBw8vf7bZEgEjqLToIZQQpB72yz/9YIazaJJGX/w80a9YDOnGf+AsUFJiLXK/vWzj1REJAEMw==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\alami\\source\\repos\\NodePad\\NodePad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
